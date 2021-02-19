@@ -19,6 +19,8 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.6.1"
+marshmallow = "^3.10.0"
+"ruamel.yaml" = "^0.16.12"
 
 [tool.poetry.dev-dependencies]
 bandit = "^1.6.2"
